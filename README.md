@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ZeroZipp
+- 👀 I’m interested in MC developend
+- 🌱 I’m currently learning MCP
+- 💞️ I’m looking to collaborate on a minecraft client
+- 📫 How to reach me: here or on discord
