@@ -1,2 +1,2 @@
-- YouTube: [@zerozipp](https://youtube.com/@zerozipp)
+- Gitea: [@zerozipp](https://git.zerozipp.dev/zerozipp)
 - GitHub: [@zerozipp](https://github.com/zerozipp)
